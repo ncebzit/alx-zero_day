@@ -1,5 +1,2 @@
 #!/bin/bash
-echo "ALXecho "ALX"
-echo "ALX"
-wq
-wq"
+echo "ALX School is cool!"
